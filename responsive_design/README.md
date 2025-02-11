@@ -1,1 +1,1 @@
-how to make a website responsive
+Responsive design
